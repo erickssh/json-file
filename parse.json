@@ -1,0 +1,13 @@
+{
+  "drive": {
+	    "host": "https://drive.anbima.com.br/remote.php/webdav/", 
+ 	    "login": "erick.shinotsuka", 
+	    "passowrd": "Sukash@22", 
+	    "local_directory": "Output/excel.xlsx", 
+	    "remote_directory": "Excel_file/ALTERA\u00c7\u00c3O_Modelo.xlsx"
+	   },
+  "dataframe": {
+	       "sheet_name": ["555", "planilha1", "fidc", "fip", "fii"],
+	       "excel_file": "Output/excel.xlsx"
+	      }
+}
