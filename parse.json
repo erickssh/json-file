@@ -4,7 +4,8 @@
 	    "local_directory": "Output/excel.xlsx", 
 	    "remote_directory": "Excel_file/ALTERA\u00c7\u00c3O_Modelo.xlsx"
 	   },
-  "dataframe": {
+  "dataframe": {"sep": "sep"
+		"header": "header"
 	       "sheet_name": ["555", "planilha1", "fidc", "fip", "fii"],
 	       "excel_file": "Output/excel.xlsx"
 	      }
