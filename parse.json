@@ -1,6 +1,5 @@
 {
   "drive": {
-
 	    "local_directory": "Output/excel.xlsx", 
 	    "remote_directory": "Excel_file/ALTERA\u00c7\u00c3O_Modelo.xlsx"
 	   },
